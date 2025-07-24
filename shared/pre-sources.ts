@@ -112,14 +112,6 @@ export const originSources = {
     color: "gray",
     home: "https://www.douyin.com",
   },
-  "hupu": {
-    name: "虎扑",
-    home: "https://hupu.com",
-    column: "china",
-    title: "主干道热帖",
-    type: "hottest",
-    color: "red",
-  },
   "tieba": {
     name: "百度贴吧",
     title: "热议",
